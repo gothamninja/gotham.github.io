@@ -84,7 +84,8 @@ keywords: "Gotham, Ninja"
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
-rss: https://blog.csdn.net/Gotham_
+CSDN: https://blog.csdn.net/Gotham_
+微信公众号: https://mp.weixin.qq.com/s?__biz=MzI1OTM2ODI4MA==&mid=2247484311&idx=1&sn=16557df2e6a053fef785482b9b7f6c59&chksm=ea78b7a0dd0f3eb6384ad19502afefee528bef64e0ace1693bb6d700266e19bbcd692bb69186#rd
 
 # Specify the date when the site was setup
 #since: 2015
