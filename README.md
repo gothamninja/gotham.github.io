@@ -1,35 +1,30 @@
-# NexT
+# Diagonal Slideshow
 
-> 精于心，简于形
+A slideshow with a diagonal look and a content preview. Animated by [TweenMax](https://greensock.com/tweenmax).
 
-NexT 是由 [Hexo NexT](https://github.com/iissnan/hexo-theme-next) 移植而来的 Jekyll 主题。<!--commit: f951075d9b739d26b42472431995fa68d08796aa-->
+![Diagonal Slideshow](https://tympanus.net/codrops/wp-content/uploads/2018/08/DiagonalSlideshow.gif)
 
-<a href="http://simpleyyt.github.io/jekyll-theme-next/" target="_blank">在线预览 Preview</a> | <a href="http://simpleyyt.com" target="_blank">Yitao's Blog</a> | <a href="http://theme-next.simpleyyt.com" target="_blank">NexT 使用文档</a> |  [English Documentation](README.en.md)
+[Article on Codrops](https://tympanus.net/codrops/?p=35765)
 
-[![Join the chat at https://gitter.im/simpleyyt/jekyll-theme-next](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jekyll-theme-next/lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[Demo](http://tympanus.net/Development/DiagonalSlideshow/)
 
-![NexT Schemes](http://iissnan.com/nexus/next/next-schemes.jpg)
+## Credits
 
+- [imagesLoaded](https://imagesloaded.desandro.com/) by Dave DeSandro
+- [TweenMax](https://greensock.com/tweenmax) by Greensock
+- [Charming](https://github.com/yuanqing/charming) by Yuan Qing
+- Images from [Unsplash.com](https://unsplash.com/)
 
-## 浏览器支持 Browser support
+## License
+This resource can be used freely if integrated or build upon in personal or commercial projects such as websites, web apps and web templates intended for sale. It is not allowed to take the resource "as-is" and sell it, redistribute, re-publish it, or sell "pluginized" versions of it. Free plugins built using this resource should have a visible mention and link to the original work. Always consider the licenses of all included libraries, scripts and images used.
 
-![Browser support](http://iissnan.com/nexus/next/browser-support.png)
+## Misc
 
+Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/codrops), [Google+](https://plus.google.com/101095823814290637419), [GitHub](https://github.com/codrops), [Pinterest](http://www.pinterest.com/codrops/), [Instagram](https://www.instagram.com/codropsss/)
 
-## 贡献 Contributing
-
-欢迎提交问题与需求，修复代码。
-
-
-## 开发 Development
-
-NexT 主旨在于简洁优雅且易于使用，所以首先要尽量确保 NexT 的简洁易用性。
-
-NexT is built for easily use with elegant appearance. First things first, always keep things simple.
+[© Codrops 2018](http://www.codrops.com)
 
 
-## 捐赠
 
-支付宝捐赠链接还是要有的，万一真的有人捐呢。
 
-![支付宝扫码捐赠](http://p1.bpimg.com/567571/9a4a158daee8aa69.png)
+
